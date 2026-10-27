@@ -1,0 +1,6 @@
+2-D harmonic oscillator: fitted convergence order 2.01 (expected 2)
+3-D spherical well (R=5.0 nm, V0=200.0 meV): exact E0 = -82.81 meV, FD relative error 0.69% at h = 0.58 nm
+J(w) validation (harmonic traps): peak J differs from analytic by 1.13%
+R = 3 nm: E_e = -54.8 meV, E_h = -99.3 meV, J peaks at 1.90 meV, polaron shift (to 5 meV) = 115.2 ueV
+R = 4 nm: E_e = -118.3 meV, E_h = -116.6 meV, J peaks at 1.94 meV, polaron shift (to 5 meV) = 127.7 ueV
+R = 5 nm: E_e = -166.7 meV, E_h = -127.1 meV, J peaks at 1.77 meV, polaron shift (to 5 meV) = 98.2 ueV
